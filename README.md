@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="45px" height="40px"> I'm Naman Hiran</h1>
 
-<h2 align="center">A passionate computer science student from India</h2>
+<h2 align="center">A passionate Computer Science Student from India</h2>
 
 - I love❤ to make **exciting projects**. <br/>
 
@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **Javascript** & **CSS**
 
-- 👀 Cheak my  <a href="https://www.hackerrank.com/namanhiran">Hackerrank</a>  ||   <a href="https://leetcode.com/namanhiran/">LeetCode</a>
+- 👀 Check my  <a href="https://www.hackerrank.com/namanhiran">Hackerrank</a>  ||   <a href="https://leetcode.com/namanhiran/">LeetCode</a>
 ---
 	
 ### 🛠 &nbsp;Languages and Tools
