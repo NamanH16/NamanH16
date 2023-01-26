@@ -35,7 +35,7 @@
 <p align='center'>
 <a href="https://www.linkedin.com/in/naman-hiran-3446a7203/" target="_blank"><img src="https://icons.iconarchive.com/icons/alecive/flatwoken/64/Apps-Linkedin-icon.png" width="5%" alt="Linkedin"></a>
 <a href="mailto:namanhiran@gmail.com" target="_blank"><img src="https://icons.iconarchive.com/icons/wwalczyszyn/android-style-honeycomb/64/GMail-icon.png" width="5%" alt="Email"></a>
-<a href="https://t.me/nam67" target="_blank"><img src="https://icons.iconarchive.com/icons/alecive/flatwoken/64/Apps-Telegram-icon.png" alt="telegram" width="5%"></a>   <a href="https://twitter.com/KunnalBansal985" target="_blank"><img src="https://icons.iconarchive.com/icons/alecive/flatwoken/64/Apps-Twitter-icon.png" alt="twitter" width="5%"></a>   
+<a href="https://t.me/nam67" target="_blank"><img src="https://icons.iconarchive.com/icons/alecive/flatwoken/64/Apps-Telegram-icon.png" alt="telegram" width="5%"></a>   
 	
 <br>
 <br>
