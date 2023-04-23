@@ -38,7 +38,7 @@
 <a href="https://t.me/nam67" target="_blank"><img src="https://icons.iconarchive.com/icons/alecive/flatwoken/64/Apps-Telegram-icon.png" alt="telegram" width="5%"></a> 
 	
 [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=NamanH16)](https://github.com/NamanH16)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yushi1007&layout=compact)](https://github.com/NamanH16)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NamanH16&layout=compact)](https://github.com/NamanH16)
 	
 <br>
 <br>
