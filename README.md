@@ -37,7 +37,7 @@
 <a href="mailto:namanhiran@gmail.com" target="_blank"><img src="https://icons.iconarchive.com/icons/wwalczyszyn/android-style-honeycomb/64/GMail-icon.png" width="5%" alt="Email"></a>
 <a href="https://t.me/nam67" target="_blank"><img src="https://icons.iconarchive.com/icons/alecive/flatwoken/64/Apps-Telegram-icon.png" alt="telegram" width="5%"></a> 
 	
-[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=NamanH16)](https://github.com/NamanH16)
+[![Naman’s github stats](https://github-readme-stats.vercel.app/api?username=NamanH16)](https://github.com/NamanH16)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NamanH16&layout=compact)](https://github.com/NamanH16)
 	
 <br>
