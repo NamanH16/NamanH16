@@ -26,8 +26,7 @@
 
 <br/>
 
-
-<div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=NamanH16&show_icons=true&theme=algolia&include_all_commit=true&count_private=true"/> </div>
+<div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=NamanH16&include_all_commit=true&count_private=true"/> </div>
 
 <h3 align="center">Connect with me 🤝</h3>
 <body>
